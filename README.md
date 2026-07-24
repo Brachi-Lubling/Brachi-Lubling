@@ -1,1 +1,1 @@
-<img src="clauding.gif" width="600" alt="Animation">
+<img src="clauding.gif" width="100%" alt="Animation">
