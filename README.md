@@ -1,1 +1,1 @@
-<img src="clauding.gif" width="100%" alt="Animation">
+<img src="brachi-lubling.gif" width="100%" alt="Animation">
