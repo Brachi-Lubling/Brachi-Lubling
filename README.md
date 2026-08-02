@@ -1,5 +1,3 @@
-<img src="brachi-lubling.gif" width="100%" alt="Animation">
-
 ## Hi, I'm Bracha 👋
 
 Full Stack & AI Developer with a systems-thinking approach — I connect the dots between business needs and working code.
@@ -26,3 +24,6 @@ Full Stack & AI Developer with a systems-thinking approach — I connect the dot
 
 ## Let's connect
 📧 bracha.lubling@gmail.com
+
+<img src="brachi-lubling.gif" width="100%" alt="Animation">
+
