@@ -25,5 +25,5 @@ Full Stack & AI Developer with a systems-thinking approach — I connect the dot
 ## Let's connect
 📧 bracha.lubling@gmail.com
 
-<img src="brachi-lubling.gif" width="100%" alt="Animation">
+<img src="bracha-lubling.gif" width="100%" alt="Animation">
 
