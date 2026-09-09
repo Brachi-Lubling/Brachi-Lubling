@@ -1,24 +1,13 @@
 ## Hi, I'm Bracha 👋
 
-**Full Stack & AI Developer** with a systems-thinking approach - connecting business needs with working software.
+**Full Stack & AI Developer** who likes to understand the whole picture — from the problem behind the requirement to the code that solves it.
 
-### What I do
+I turn complex ideas into **practical, well-structured software**, combining full-stack development with AI and system integration.
 
-* Build end-to-end web applications
-* Develop AI-powered solutions using LLMs, AI Agents & MCP
-* Build system integrations with REST APIs & Webhooks
-
-### Tech Stack
-
-**Frontend:** React · Vite · JavaScript · HTML · CSS
-**Backend:** Node.js · Python · Java · C#
-**AI:** LLMs · AI Agents · MCP · Prompt Engineering
-**Databases:** MongoDB · PostgreSQL · SQL Server
-**Cloud & Tools:** AWS · Docker · Supabase · Git · GitHub · Postman · Swagger
-
-**Software Engineering — KamaTech**
-Extended track in AI & Embedded Systems
-
-📧 [bracha.lubling@gmail.com](mailto:bracha.lubling@gmail.com)
+* 🧠 **Systems thinker** — I look beyond individual features and understand how the pieces fit together
+* ⚡ **Fast learner** — comfortable diving into new codebases, technologies, and environments
+* 🤖 **AI-driven** — building solutions with LLMs, AI Agents, and modern AI tooling
+* 🎓 **Software Engineering (MAHAT)** — KamaTech, Extended Track in AI & Embedded Systems
+* 📫 **[bracha.lubling@gmail.com](mailto:bracha.lubling@gmail.com)**
 
 <img src="bracha-lubling.gif" width="100%" alt="Animation">
