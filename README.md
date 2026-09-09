@@ -1,29 +1,24 @@
 ## Hi, I'm Bracha 👋
 
-Full Stack & AI Developer with a systems-thinking approach — I connect the dots between business needs and working code.
+**Full Stack & AI Developer** with a systems-thinking approach - connecting business needs with working software.
 
-## What I do
-- Build end-to-end web applications with modern frontend and backend technologies
-- Integrate AI capabilities: LLM integrations, AI Agents, MCP servers, Prompt Engineering
-- Design and implement system integrations via REST APIs and Webhooks
+### What I do
 
-## Tech Stack
-**Frontend:** React · Vite · Redux Toolkit · JavaScript · HTML5 · CSS3  
-**Backend:** Node.js · Express · Python · Java · C#  
-**AI/ML:** LLM Integration · AI Agents · MCP Servers · Prompt Engineering  
-**Databases:** MongoDB · PostgreSQL · SQL Server · SQLite  
-**Cloud & DevOps:** AWS · Docker · Vercel · Supabase  
-**Dev Tools:** Git · GitHub · Bitbucket · Postman · Swagger · Jira  
-**AI Dev Tools:** Claude Code · GitHub Copilot · Cursor  
-**OS:** Windows · Linux
+* Build end-to-end web applications
+* Develop AI-powered solutions using LLMs, AI Agents & MCP
+* Build system integrations with REST APIs & Webhooks
 
-## Education
-**Software Engineering (KamaTech)** — Extended track in AI & Embedded
-- AI coursework: Machine Learning, Deep Learning, LLM, Computer Vision
-- Embedded & real-time systems coursework: Embedded Systems, Digital Systems, C/C++
+### Tech Stack
 
-## Let's connect
-📧 bracha.lubling@gmail.com
+**Frontend:** React · Vite · JavaScript · HTML · CSS
+**Backend:** Node.js · Python · Java · C#
+**AI:** LLMs · AI Agents · MCP · Prompt Engineering
+**Databases:** MongoDB · PostgreSQL · SQL Server
+**Cloud & Tools:** AWS · Docker · Supabase · Git · GitHub · Postman · Swagger
+
+**Software Engineering — KamaTech**
+Extended track in AI & Embedded Systems
+
+📧 [bracha.lubling@gmail.com](mailto:bracha.lubling@gmail.com)
 
 <img src="bracha-lubling.gif" width="100%" alt="Animation">
-
