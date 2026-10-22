@@ -10,4 +10,4 @@ I enjoy tackling complex problems and building structured, reliable solutions, w
 - 🎓 **KamaTech–Google Chip Verification Bootcamp** | Software Engineering (MAHAT), AI & Embedded Systems
 - 📫 [**bracha.lubling@gmail.com**](mailto\:bracha.lubling@gmail.com)
 
-\<img src="bracha-lubling.gif" width="100%" alt="Animation">
+<img src="bracha-lubling.gif" width="100%" alt="Animation">
