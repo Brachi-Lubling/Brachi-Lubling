@@ -1,13 +1,13 @@
 ## Hi, I'm Bracha 👋
 
-**Full Stack & AI Developer** who likes to understand the whole picture — from the problem behind the requirement to the code that solves it.
+Aspiring **Hardware Verification & Embedded Systems Engineer** with a software development background and a strong interest in understanding how systems work - from design and interfaces to testing and debugging.
 
-I turn complex ideas into **practical, well-structured software**, combining full-stack development with AI and system integration.
+I enjoy tackling complex problems and building structured, reliable solutions, with hands-on project experience in **SystemVerilog, UVM, C++, and software development**.
 
-* 🧠 **Systems thinker** — I look beyond individual features and understand how the pieces fit together
-* ⚡ **Fast learner** — comfortable diving into new codebases, technologies, and environments
-* 🤖 **AI-driven** — building solutions with LLMs, AI Agents, and modern AI tooling
-* 🎓 **Software Engineering (MAHAT)** — KamaTech, Extended Track in AI & Embedded Systems
-* 📫 **[bracha.lubling@gmail.com](mailto:bracha.lubling@gmail.com)**
+- 🔬 **Hardware Verification** - UVM-based testbenches, constrained-random testing, and RTL verification
+- ⚙️ **Systems & Software** - system behavior, interfaces, and software architecture
+- 🧠 **Analytical Thinking** - systematic problem-solving, attention to detail, and rapid learning
+- 🎓 **KamaTech–Google Chip Verification Bootcamp** | Software Engineering (MAHAT), AI & Embedded Systems
+- 📫 [**bracha.lubling@gmail.com**](mailto\:bracha.lubling@gmail.com)
 
-<img src="bracha-lubling.gif" width="100%" alt="Animation">
+\<img src="bracha-lubling.gif" width="100%" alt="Animation">
